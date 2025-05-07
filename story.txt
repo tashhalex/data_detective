@@ -3,3 +3,6 @@ Once upon a time, there was a detetctive named Data who loved to solve puzzles..
 
 Suddenly, a mysterious figure left behind a clue: a USB drive labeled "TOP SECRET".
 Data opened it, only to find encrypted files that hinted at a hidden treasure...
+
+Data opened it, only to find encrypted files that hinted at a hidden treasure.
+Determined, Data vowed to crack the code - but strange glitches began appearing on his computer...
